@@ -42,7 +42,6 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         
         // Set the scene to the view
        // sceneView.scene = scene
-        //addBox()
         addTapGestureToSceneView()
     }
     
